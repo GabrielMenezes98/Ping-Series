@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XBcnimJD9ntdXxjrtLpLVAnptn1ri4mfoFHUPJZXaE7+mExskhLMI+MbPwn7OOUwfQS51z/HsQxBLgaNa36nLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\Desktop\\Aprendendo a programar e etc\\Projetos\\PingSeries\\Ping.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

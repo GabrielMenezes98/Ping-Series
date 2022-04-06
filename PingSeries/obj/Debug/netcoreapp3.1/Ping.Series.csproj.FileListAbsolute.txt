@@ -1,0 +1,27 @@
+/home/eliezer/sandbox/dio/Ping.Series/bin/Debug/netcoreapp3.1/Ping.Series
+/home/eliezer/sandbox/dio/Ping.Series/bin/Debug/netcoreapp3.1/Ping.Series.deps.json
+/home/eliezer/sandbox/dio/Ping.Series/bin/Debug/netcoreapp3.1/Ping.Series.runtimeconfig.json
+/home/eliezer/sandbox/dio/Ping.Series/bin/Debug/netcoreapp3.1/Ping.Series.runtimeconfig.dev.json
+/home/eliezer/sandbox/dio/Ping.Series/bin/Debug/netcoreapp3.1/Ping.Series.dll
+/home/eliezer/sandbox/dio/Ping.Series/bin/Debug/netcoreapp3.1/Ping.Series.pdb
+/home/eliezer/sandbox/dio/Ping.Series/obj/Debug/netcoreapp3.1/Ping.Series.csprojAssemblyReference.cache
+/home/eliezer/sandbox/dio/Ping.Series/obj/Debug/netcoreapp3.1/Ping.Series.AssemblyInfoInputs.cache
+/home/eliezer/sandbox/dio/Ping.Series/obj/Debug/netcoreapp3.1/Ping.Series.AssemblyInfo.cs
+/home/eliezer/sandbox/dio/Ping.Series/obj/Debug/netcoreapp3.1/Ping.Series.csproj.CoreCompileInputs.cache
+/home/eliezer/sandbox/dio/Ping.Series/obj/Debug/netcoreapp3.1/Ping.Series.dll
+/home/eliezer/sandbox/dio/Ping.Series/obj/Debug/netcoreapp3.1/Ping.Series.pdb
+/home/eliezer/sandbox/dio/Ping.Series/obj/Debug/netcoreapp3.1/Ping.Series.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\PingSeries\bin\Debug\netcoreapp3.1\Ping.Series.exe
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\PingSeries\bin\Debug\netcoreapp3.1\Ping.Series.deps.json
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\PingSeries\bin\Debug\netcoreapp3.1\Ping.Series.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\PingSeries\bin\Debug\netcoreapp3.1\Ping.Series.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\PingSeries\bin\Debug\netcoreapp3.1\Ping.Series.dll
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\PingSeries\bin\Debug\netcoreapp3.1\Ping.Series.pdb
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\PingSeries\obj\Debug\netcoreapp3.1\Ping.Series.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\PingSeries\obj\Debug\netcoreapp3.1\Ping.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\PingSeries\obj\Debug\netcoreapp3.1\Ping.Series.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\PingSeries\obj\Debug\netcoreapp3.1\Ping.Series.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\PingSeries\obj\Debug\netcoreapp3.1\Ping.Series.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\PingSeries\obj\Debug\netcoreapp3.1\Ping.Series.dll
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\PingSeries\obj\Debug\netcoreapp3.1\Ping.Series.pdb
+C:\Users\Gabriel\Desktop\Aprendendo a programar e etc\Projetos\PingSeries\obj\Debug\netcoreapp3.1\Ping.Series.genruntimeconfig.cache
